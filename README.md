@@ -8,7 +8,7 @@ cheatsheet to help Javascript developers picking up Go by providing a map of equ
 
 |          category           |      javascript       |         go        |
 |-----------------------------|-----------------------|-----------------------|
-| package manager | [npm](https://github.com/npm/cli) | [go tool](https://github.com/golang/tools) |
+| package manager | [npm](https://github.com/npm/cli) | [go tool](https://github.com/golang/tools), [dep](https://golang.github.io/dep/) |
 | code linter | [eslint](https://github.com/eslint/eslint) | [golint](https://github.com/golang/lint) |
 | code formatter | [prettier](https://github.com/prettier/prettier) | [go fmt](https://blog.golang.org/go-fmt-your-code) |
 | static type checker | [flow](https://github.com/facebook/flow) | [go type](https://golang.org/x/tools/cmd/gotype) |
