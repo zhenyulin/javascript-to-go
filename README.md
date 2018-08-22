@@ -36,4 +36,5 @@ cheatsheet to help Javascript developers picking up Go by providing a map of equ
 ## syntax
 
 [Go for Javascript Developer](http://www.pazams.com/Go-for-Javascript-Developers/)
+
 [From Node to Go](https://tech.xogrp.com/from-node-to-go-a-high-level-comparison-56c8b717324a)
